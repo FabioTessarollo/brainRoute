@@ -46,7 +46,6 @@ public class BrainRouteMain {
 				}
 			}
 		}
-			s.close();
 	}
 	
 	public static List<String> generateRoute(int lenght)
