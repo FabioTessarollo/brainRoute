@@ -6,3 +6,7 @@ Fork of [brainRoute](https://github.com/FabioTessarollo/brainRoute) by [FabioTes
   
  Introduced issues:
   - Jumping to the next step of a level now requires entering twice. The expected behaviour is pressing once.
+
+ Existing issues that need addressing:
+ - Rebase code with better structure, such as more defined main, better naming and better classes.
+ - Review dependencies.
